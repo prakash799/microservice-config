@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 loans:
-  message: "Welcome to easyBank production application"
+  message: "Welcome to easyBank PROD application"
   contactDetails:
     name: "Prod Team"
     email: "prodteam@gmail.com"
