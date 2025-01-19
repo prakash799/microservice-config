@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome to eazybank Cards Local Environment"
+  contactDetails:
+    name: "Local Team"
+    email: "local@example.com"
+  onCallSupport:
+    -(301) 555-1289
+    -(302) 528-4598

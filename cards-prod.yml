@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to eazybank Cards PROD Environment"
+  contactDetails:
+    name: "PROD Team"
+    email: "prod@example.com"
+  onCallSupport:
+    -(301) 555-1245
+    -(302) 528-1236

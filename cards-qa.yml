@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+cards:
+  message: "Welcome to eazybank Cards QA Environment"
+  contactDetails:
+    name: "QA Team"
+    email: "qa@example.com"
+  onCallSupport:
+    -(301) 555-1212
+    -(302) 528-1213

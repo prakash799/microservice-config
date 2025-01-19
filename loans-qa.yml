@@ -1,0 +1,12 @@
+build:
+  version:2.0
+
+loans:
+  message: "Welcome to easyBank QA application"
+  contactDetails:
+    name: "QA Team"
+    email: "qateam@gmail.com"
+  onCallSupport:
+    -(7878)5454-4571
+    -(2365)9657-1236
+

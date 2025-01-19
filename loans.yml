@@ -1,0 +1,12 @@
+build:
+  version: 1.0
+
+loans:
+  message: "Welcome to EasyBank local Environment"
+  contactDetails:
+    name: "Local Team"
+    email: "local@gmail.com"
+  onCallSupport:
+    -(123)456-589
+    -(568)569-234
+

@@ -1,0 +1,12 @@
+build:
+  version: 3.0
+
+loans:
+  message: "Welcome to easyBank prod application"
+  contactDetails:
+    name: "Prod Team"
+    email: "prodteam@gmail.com"
+  onCallSupport:
+    -(4125)5689-1247
+    -(8567)9621-3012
+  
